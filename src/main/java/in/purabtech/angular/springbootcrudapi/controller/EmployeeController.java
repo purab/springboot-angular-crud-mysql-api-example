@@ -1,6 +1,6 @@
 package in.purabtech.angular.springbootcrudapi.controller;
 
-import in.purabtech.angular.springbootcrudapi.ResourceNotFoundException;
+import in.purabtech.angular.springbootcrudapi.exception.ResourceNotFoundException;
 import in.purabtech.angular.springbootcrudapi.model.Employee;
 import in.purabtech.angular.springbootcrudapi.repository.EmployeeRepository;
 

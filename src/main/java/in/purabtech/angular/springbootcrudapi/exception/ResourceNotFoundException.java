@@ -1,4 +1,4 @@
-package in.purabtech.angular.springbootcrudapi;
+package in.purabtech.angular.springbootcrudapi.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ExceptionHandler;
